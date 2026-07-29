@@ -1,7 +1,8 @@
 deep-translator
 langchain-groq
 streamlit
+python==3.11.10
 opencv-python
 tensorflow
 numpy
-python==3.11.10
+
