@@ -4,3 +4,4 @@ streamlit
 opencv-python
 tensorflow
 numpy
+python==3.11.10
