@@ -1,0 +1,4 @@
+deep-translator
+langchain-groq
+streamlit
+opencv-python
